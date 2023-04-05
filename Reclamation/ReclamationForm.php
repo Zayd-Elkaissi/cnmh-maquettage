@@ -65,11 +65,6 @@
 
               <!-- /.card-body -->
             </div>
-            <!-- /.card -->
-
-            <!-- iCheck -->
-
-            <!-- /.card -->
           </div>
         </div>
         <!-- /.col -->
